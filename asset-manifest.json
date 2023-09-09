@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/WasnaaAlRubaye.github.io/,/static/css/main.bce5fc2f.css",
-    "main.js": "/WasnaaAlRubaye.github.io/,/static/js/main.ba9d47b8.js",
-    "static/media/Edge.jpg": "/WasnaaAlRubaye.github.io/,/static/media/Edge.7b9c29d98e71387010b9.jpg",
-    "static/media/JD.jpg": "/WasnaaAlRubaye.github.io/,/static/media/JD.e47026fd5e9caa9e5809.jpg",
-    "static/media/Profile_pic.jpg": "/WasnaaAlRubaye.github.io/,/static/media/Profile_pic.61436cac5c129226ed4c.jpg",
-    "static/media/active_box.jpg": "/WasnaaAlRubaye.github.io/,/static/media/active_box.ab815d0a4ab214c1a9bd.jpg",
-    "static/media/hotel.jpg": "/WasnaaAlRubaye.github.io/,/static/media/hotel.d09fe3f70ae75ee4a225.jpg",
-    "static/media/app_labb.jpg": "/WasnaaAlRubaye.github.io/,/static/media/app_labb.f735b408b025c18cecd2.jpg",
-    "static/media/HM.jpg": "/WasnaaAlRubaye.github.io/,/static/media/HM.098139008b30b6df656a.jpg",
-    "static/media/WR_Frame.png": "/WasnaaAlRubaye.github.io/,/static/media/WR_Frame.e1647d82ad2c5957d607.png",
-    "index.html": "/WasnaaAlRubaye.github.io/,/index.html",
-    "main.bce5fc2f.css.map": "/WasnaaAlRubaye.github.io/,/static/css/main.bce5fc2f.css.map",
-    "main.ba9d47b8.js.map": "/WasnaaAlRubaye.github.io/,/static/js/main.ba9d47b8.js.map"
+    "main.css": "/WasnaaAlRubaye.github.io/static/css/main.bce5fc2f.css",
+    "main.js": "/WasnaaAlRubaye.github.io/static/js/main.e3556a9b.js",
+    "static/media/Edge.jpg": "/WasnaaAlRubaye.github.io/static/media/Edge.7b9c29d98e71387010b9.jpg",
+    "static/media/JD.jpg": "/WasnaaAlRubaye.github.io/static/media/JD.e47026fd5e9caa9e5809.jpg",
+    "static/media/Profile_pic.jpg": "/WasnaaAlRubaye.github.io/static/media/Profile_pic.61436cac5c129226ed4c.jpg",
+    "static/media/active_box.jpg": "/WasnaaAlRubaye.github.io/static/media/active_box.ab815d0a4ab214c1a9bd.jpg",
+    "static/media/hotel.jpg": "/WasnaaAlRubaye.github.io/static/media/hotel.d09fe3f70ae75ee4a225.jpg",
+    "static/media/app_labb.jpg": "/WasnaaAlRubaye.github.io/static/media/app_labb.f735b408b025c18cecd2.jpg",
+    "static/media/HM.jpg": "/WasnaaAlRubaye.github.io/static/media/HM.098139008b30b6df656a.jpg",
+    "static/media/WR_Frame.png": "/WasnaaAlRubaye.github.io/static/media/WR_Frame.e1647d82ad2c5957d607.png",
+    "index.html": "/WasnaaAlRubaye.github.io/index.html",
+    "main.bce5fc2f.css.map": "/WasnaaAlRubaye.github.io/static/css/main.bce5fc2f.css.map",
+    "main.e3556a9b.js.map": "/WasnaaAlRubaye.github.io/static/js/main.e3556a9b.js.map"
   },
   "entrypoints": [
     "static/css/main.bce5fc2f.css",
-    "static/js/main.ba9d47b8.js"
+    "static/js/main.e3556a9b.js"
   ]
 }
